@@ -1,5 +1,5 @@
-###  how's it going?, I am Samuel 👋
-💼🔖💬
+<center><h2> Hi there, I'm Samuel Hurtado, a passionate self-taught developer from Venezuela. 👋👋💼🔖💬</h2></center>
+
 📌 _About me I can say that:_
 
 - 🔭 &nbsp;My personal goal is to become a software architect
@@ -24,4 +24,7 @@
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=samuelhurtado20&show_icons=true&theme=gotham" alt="Samuel Hurtado's GitHub Stats" />
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhurtado20)
 
