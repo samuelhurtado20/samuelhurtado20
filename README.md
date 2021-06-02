@@ -1,16 +1,27 @@
-### Hi there 👋
+###  how's it going?, I am Samuel 👋
+💼🔖💬
+📌 _About me I can say that:_
 
-<!--
-**samuelhurtado20/samuelhurtado20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 &nbsp;My personal goal is to become a software architect
+- 💻 &nbsp;I spend most of my time writing C #
+- 🌱 &nbsp;I am currently learning .NET 6 and Azure AI
+- 📫 &nbsp;_How to find me:_ [Linkedin](https://www.linkedin.com/in/samuel-hurtado-584782b7/) | [Email](mailto:samuelhurtado20@gmail.com) | [Website](http://www.logenial.com/) 🚀
+- ⚡ &nbsp;_Fun fact:_ I ❤️ programming!!😄
 
-Here are some ideas to get you started:
+### 📦 Languages and Technology: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="27" src="https://user-images.githubusercontent.com/20540176/120405254-c4485d00-c30d-11eb-9e37-466380e09282.jpg"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/20540176/120405450-2c973e80-c30e-11eb-8ac4-9a3952420f74.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/20540176/120405513-518bb180-c30e-11eb-8ab2-387d79f08327.png"></code>
+<br />
+<br />
+📊 <b><i>GitHub Stats</i></b>
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=samuelhurtado20&show_icons=true&theme=gotham" alt="Samuel Hurtado's GitHub Stats" />
+
