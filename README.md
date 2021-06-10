@@ -10,14 +10,15 @@
 
 ### 📦 Languages and Technology: 
 
+<code><img height="27" src="https://user-images.githubusercontent.com/20540176/120405254-c4485d00-c30d-11eb-9e37-466380e09282.jpg"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/20540176/120405513-518bb180-c30e-11eb-8ab2-387d79f08327.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/20540176/120405450-2c973e80-c30e-11eb-8ac4-9a3952420f74.png"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="27" src="https://user-images.githubusercontent.com/20540176/120405254-c4485d00-c30d-11eb-9e37-466380e09282.jpg"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/20540176/120405450-2c973e80-c30e-11eb-8ac4-9a3952420f74.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/20540176/120405513-518bb180-c30e-11eb-8ab2-387d79f08327.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <br />
 <br />
 📊 <b><i>GitHub Stats</i></b>
