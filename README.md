@@ -5,7 +5,7 @@
 - 🔭 &nbsp;My personal goal is to become a software architect
 - 💻 &nbsp;I spend most of my time writing C #
 - 🌱 &nbsp;I am currently learning .NET 6 and Azure AI
-- 📫 &nbsp;_How to find me:_ [Linkedin](https://www.linkedin.com/in/samuel-hurtado-584782b7/) | [Email](mailto:samuelhurtado20@gmail.com) | [Website](http://www.logenial.com/) 🚀
+- 📫 &nbsp;_How to find me:_ [Linkedin](https://www.linkedin.com/in/samuelhurtado20/) | [Email](mailto:samuelhurtado20@gmail.com) | [Website](http://www.logenial.com/) 🚀
 - ⚡ &nbsp;_Fun fact:_ I ❤️ programming!!😄
 
 ### 📦 Languages and Technology: 
