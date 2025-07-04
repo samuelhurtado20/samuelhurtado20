@@ -9,6 +9,7 @@
 - ⚡ &nbsp;_Fun fact:_ I ❤️ programming!!😄
 
 ### 📦 Languages and Technology: 
+![images](https://github.com/user-attachments/assets/cd6052bc-efd3-4941-8241-50731c669fbc)
 
 <code><img height="27" width='25' src="https://user-images.githubusercontent.com/20540176/120405254-c4485d00-c30d-11eb-9e37-466380e09282.jpg"></code>
 <code><img height="30" width='25' src="https://user-images.githubusercontent.com/20540176/120405513-518bb180-c30e-11eb-8ab2-387d79f08327.png"></code>
