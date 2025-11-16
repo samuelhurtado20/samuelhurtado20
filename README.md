@@ -3,8 +3,8 @@
 📌 _About me I can say that:_
 
 - 🔭 &nbsp;My personal goal is to become a software architect
-- 💻 &nbsp;I spend most of my time writing C #
-- 🌱 &nbsp;I am currently learning .NET 6 and Azure AI
+- 💻 &nbsp;I spend most of my time writing code in Python and C#.
+- 🌱 &nbsp;I am currently learning MCP and Azure AI
 - 📫 &nbsp;_How to find me:_ [Linkedin](https://www.linkedin.com/in/samuelhurtado20/) | [Email](mailto:samuelhurtado20@gmail.com) | [Website](https://samuelhurtado20.github.io/) 🚀
 - ⚡ &nbsp;_Fun fact:_ I ❤️ programming!!😄
 
