@@ -10,7 +10,7 @@
 
 ### 📦 Languages and Technology: 
 
-<code><img width="800" height="800" alt="hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn" src="https://github.com/user-attachments/assets/aca8236c-b0ab-4940-ba94-74e9f2c19b6f" /></code>
+<code><img width="25" height="27" alt="hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn" src="https://github.com/user-attachments/assets/aca8236c-b0ab-4940-ba94-74e9f2c19b6f" /></code>
 
 <code><img height="27" width='25' src="https://user-images.githubusercontent.com/20540176/120405254-c4485d00-c30d-11eb-9e37-466380e09282.jpg"></code>
 <code><img height="30" width='25' src="https://github.com/user-attachments/assets/cd6052bc-efd3-4941-8241-50731c669fbc"></code>
